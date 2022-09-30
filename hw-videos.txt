@@ -1,2 +1,5 @@
 callbacks
 https://www.youtube.com/watch?v=kz_vwAF4NHI
+
+promises
+https://www.youtube.com/watch?v=DHvZLI7Db8E
