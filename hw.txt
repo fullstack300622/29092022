@@ -1,0 +1,14 @@
+What is a Callback function?
+https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+
+"Callback function is a function passed into another function as an argument,
+which is then invoked inside the outer function to complete some kind of routine or action"
+
+targil:
+1) Create a function that accepts a callback function as an argument and calls it inside. The callback function should print "Hello World".
+
+What is promises
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+Targil:
+2) create a prosmie that resolve a person object on success and rejects error message on fail. (Generate random number between 1 and 2, if number ===1 resolve, ===2 reject )
